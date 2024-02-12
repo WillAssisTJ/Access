@@ -1,0 +1,9 @@
+.custom-button {
+    display: flex;
+    align-items: center;
+  }
+  
+  .button-image {
+    margin-right: 5px;
+  }
+  
